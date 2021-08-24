@@ -16,3 +16,4 @@
 - Toggle **Allow app installs** on.
 
 Download [Carnatic Ragas](https://github.com/PranavSindhanuru/carnatic_ragas/raw/master/carnatic_music.apk) app and install.
+Also, feel free to go through the [User Guide](https://github.com/PranavSindhanuru/carnatic_ragas/raw/master/user_guide.pdf)
