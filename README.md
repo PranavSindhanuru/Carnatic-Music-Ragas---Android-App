@@ -1,6 +1,6 @@
 # Carnatic Ragas App
 
-## installation guide
+## Installation Guide
 
 ### for non-samsung devices
 - Go to your phone’s **Settings**.
